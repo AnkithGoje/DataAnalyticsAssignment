@@ -1,4 +1,4 @@
-# 📊 Data Analytics Assignment
+# 📊 Culinary Insights & Order Trend Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -103,3 +103,4 @@ For questions or collaboration opportunities, please reach out:
 *   **Name:** Ankith Goje
 *   **Email:** [ankithgoje25@gmail.com](mailto:ankithgoje25@gmail.com)
 *   **Phone:** +91-8498866536
+
